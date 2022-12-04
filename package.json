@@ -1,0 +1,35 @@
+{
+  "name": "pup-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "anticaptcha-nodejs": "^1.0.1",
+    "decompress": "^4.2.1",
+    "dotenv": "^10.0.0",
+    "fs": "0.0.1-security",
+    "jimp": "^0.16.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "node-tesseract": "^0.2.7",
+    "node-tesseract-ocr": "^2.2.1",
+    "optiic": "^0.0.15",
+    "puppeteer": "^10.2.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-recaptcha": "^3.5.0",
+    "puppeteer-extra-plugin-stealth": "^2.9.0",
+    "puppeteer-firefox": "^0.5.1",
+    "tesseract-ocr": "^1.0.0",
+    "text-from-image": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0"
+  }
+}
